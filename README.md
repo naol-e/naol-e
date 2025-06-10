@@ -25,8 +25,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naolbirhanu&show_icons=true&theme=radical" alt="naolbirhanu stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naol-e&show_icons=true&theme=radical" alt="naol-e stats"/>
 </p>
+
 
 ---
 

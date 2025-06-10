@@ -25,8 +25,19 @@
 ### 📈 GitHub Stats
 
 <p align="center">
+  👋 Hi, I’m Naol-e — passionate about clean code and creative solutions.  
+  Here’s a quick snapshot of my GitHub journey so far! 🚀
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naol-e&show_icons=true&theme=radical" alt="naol-e stats"/>
 </p>
+
+<p align="center">
+  💡 Always learning, always improving.  
+  🐞 Debugging with patience (and the occasional coffee ☕).  
+</p>
+
 
 
 ---

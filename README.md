@@ -45,19 +45,6 @@ I love building and breaking things to see how they work! ⚙️
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naol-e&layout=compact&theme=tokyonight" height="165" />
 </p>
 
----
-
-## 🔥 Commit Streak & Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=naol-e&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naol-e&theme=tokyo-night" />
-</p>
-
----
 
 ## 📝 Latest Projects
 - 🚀 [**Calculator App**](https://naol-e.github.io/calculator/) — Responsive web calculator built with HTML, CSS & JS  
